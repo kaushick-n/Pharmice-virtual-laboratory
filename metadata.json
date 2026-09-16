@@ -1,0 +1,6 @@
+{
+  "name": "Pharmice (In Silico)",
+  "description": "Virtual pharmacology and rodent computational biology workstation eliminating early-stage animal testing under FDA Modernization Act 2.0 with 3D anatomical targeting, SMILES molecular generation, and predictive toxicity modeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
